@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there :octopus:
+
+My name is Rafael Gerônimo, from Brazil (🇧🇷). 
+<!--I've been working as I.T. Helpdesk since 2008. But code is in my veins -->
 
 <!--
 **rafaelgeronimo/rafaelgeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
