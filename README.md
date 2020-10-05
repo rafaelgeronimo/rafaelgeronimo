@@ -1,6 +1,6 @@
 ### Hi there :octopus:
 
-My name is Rafael Gerônimo, from Brazil (:flag-br:<!--🇧🇷-->) and I'm working on IT area since 2006.
+My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 
 - :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst
 - :book: I’m currently focused on learning the stack ReactJs + ReactNative + NodeJs
