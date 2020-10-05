@@ -1,23 +1,13 @@
 ### Hi there :octopus:
 
-My name is Rafael Gerônimo, from Brazil (🇧🇷). 
+My name is Rafael Gerônimo, from Brazil (:flag-br:<!--🇧🇷-->) and I'm working on IT area since 2006.
 
-- 🔭 I’m currently working on Vega I.T. as I.T. Helpdesk Analyst
-- 🌱 I’m currently learning the stack ReactJs + ReactNative + NodeJs
+- :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst
+- :book: I’m currently focused on learning the stack ReactJs + ReactNative + NodeJs
 
-<!--I've been working as I.T. Helpdesk since 2008. But code is in my veins -->
 
-<!--
-**rafaelgeronimo/rafaelgeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" />
+</p>
