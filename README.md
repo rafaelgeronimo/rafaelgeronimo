@@ -13,5 +13,6 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 </p>
 
 Now Playing:<br>
-
-![Spotify](https://github-play.vercel.app/api/spotify)
+<p align="center">    
+    <img align="center" src="https://github-play.vercel.app/api/spotify" />
+</p>
