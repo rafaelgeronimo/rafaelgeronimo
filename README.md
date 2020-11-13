@@ -4,7 +4,7 @@
 
 My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 
-- :book: I’m currently studying full-stack web development on [Trybe](betrybe.com)
+- :book: I’m currently studying full-stack web development on [Trybe](https://www.betrybe.com/)
 - :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer. Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <hr>
