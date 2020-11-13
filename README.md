@@ -13,9 +13,10 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" />
 </p>
 
+<hr>
 Now Playing:<br>
 <p align="center">
-    <a href="https://open.spotify.com/user/rafaelgeronimo_" target="_blank">
+    <a href="https://open.spotify.com/user/rafaelgeronimo_" target="_blank" title="Click to visit my Spotify profile">
         <img align="center" src="https://github-play.vercel.app/api/spotify" />
     <a>
 </p>
