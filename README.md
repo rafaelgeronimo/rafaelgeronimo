@@ -1,10 +1,11 @@
+<img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/Capa_Trybe_01.png">
+
 ### Hi there :octopus:
 
 My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 
-- :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst
-- :book: I’m currently focused on learning the stack ReactJs + ReactNative + NodeJs
-
+- :book: I’m currently studying full-stack web development on [Trybe](betrybe.com)
+- :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer. Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <hr>
 <p align="center">
@@ -13,6 +14,8 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 </p>
 
 Now Playing:<br>
-<p align="center">    
-    <img align="center" src="https://github-play.vercel.app/api/spotify" />
+<p align="center">
+    <a href="https://open.spotify.com/user/rafaelgeronimo_" target="_blank">
+        <img align="center" src="https://github-play.vercel.app/api/spotify" />
+    <a>
 </p>
