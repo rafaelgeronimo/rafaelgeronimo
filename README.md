@@ -1,4 +1,4 @@
-<img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/Capa_Trybe_01.png">
+<img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
 
 ### Hi there :octopus:
 
