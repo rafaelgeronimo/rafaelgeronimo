@@ -8,12 +8,12 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 - :construction_worker: I’m currently working on [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer. Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <hr>
-<p align="center">
+<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" />
 </p>
 
-[![rafaelgeronimo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelgeronimo)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaelgeronimo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelgeronimo)](https://wakatime.com/@rafaelgeronimo)
 
 <hr>
 Now Playing:<br>
