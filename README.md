@@ -9,9 +9,11 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 
 <hr>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" />
 </p>
+
+[![rafaelgeronimo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelgeronimo)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 Now Playing:<br>
