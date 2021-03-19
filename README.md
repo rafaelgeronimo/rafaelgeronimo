@@ -18,7 +18,7 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact" /><br />    
 </p>
 
-
+<!--
 <hr>
 Now Playing:<br>
 <p align="center">
@@ -26,3 +26,4 @@ Now Playing:<br>
         <img align="center" src="https://github-play.vercel.app/api/spotify" />
     <a>
 </p>
+-->
