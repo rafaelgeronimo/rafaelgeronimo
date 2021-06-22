@@ -11,15 +11,18 @@ My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006.
 
 <hr>
 <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" /><br /><br />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" />
+        <!--<br /><br />
         <!--
         <a href="https://wakatime.com/@rafaelgeronimo">
                 <img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelgeronimo" />
         </a>
         -->
+        <!--
 </p>
 <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" /><br />    
+        -->
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" /><br />
 </p>
 
 
