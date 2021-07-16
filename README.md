@@ -1,7 +1,7 @@
-[![Portfolio Badge](https://img.shields.io/badge/Website-geronimo.dev-black?style=flat-square)](https://geronimo.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelgeronimo/)](https://www.linkedin.com/in/rafaelgeronimo)
-[![Resume.io Badge](https://img.shields.io/badge/my-Resume.io-9cf?style=flat-square&link=https://resume.io/r/2IaNIsucz)](https://resume.io/r/2IaNIsucz)
-[![GitHub](https://img.shields.io/github/followers/rafaelgeronimo?label=follow&style=flat-square&logo=Github)](https://github.com/rafaelgeronimo)&nbsp;
+[![Portfolio][portfolio-shield]][portfolio-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Resume.io][resume-shield]][resume-url]
+[![Github Followers][github-shield]][github-url]
 
 <!--My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006. -->
 ### Hi there! Welcome to my GitHub 👋
@@ -67,3 +67,16 @@ Now Playing:<br>
     <a>
 </p>
 -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[portfolio-shield]: https://img.shields.io/badge/Website-geronimo.dev-black?style=for-the-badge
+[portfolio-url]: https://geronimo.dev
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge
+[linkedin-url]: https://linkedin.com/in/rafaelgeronimo
+
+[resume-shield]: https://img.shields.io/badge/my-Resume.io-9cf?style=for-the-badge
+[resume-url]: https://resume.io/r/2IaNIsucz
+
+[github-shield]: https://img.shields.io/github/followers/rafaelgeronimo?label=follow&style=for-the-badge&logo=Github
+[github-url]: https://github.com/rafaelgeronimo
