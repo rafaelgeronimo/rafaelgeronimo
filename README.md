@@ -1,7 +1,7 @@
 [![Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Resume.io][resume-shield]][resume-url]
-[![Github Followers][github-shield]][github-url]
+[![Github Followers][github-follow-shield]][github-follow-url]
 
 <!--My name is Rafael Gerônimo, from Brazil and I'm working on IT area since 2006. -->
 ### Hi there! Welcome to my GitHub 👋
@@ -29,34 +29,34 @@
 <hr>
 
 ### Technologies and Tools I have knowledge of
-<div style="display: flex; justify-content: center;">
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-        <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-        <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-        <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+![React][react-shield]
+![Javascript][javascript-shield]
+![HTML5][html-shield]
+![CSS3][css-shield]
+![Redux][redux-shield]
 
+![Jest][jest-shield]
+![MySQL][mysql-shield]
+![MongoDB][mongodb-shield]
 
+![Nginx][nginx-shield]
+![Vercel][vercel-shield]
+
+![GitHub][github-shield]
+![Markdown][markdown-shield]
+
+![figma][figma-shield]
+![trello][trello-shield]
+![notion][notion-shield]
+
+![Visual Studio Code][vscode-shield]
+![Windows][windows-shield]
+![Linux][linux-shield]
 
 <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
 
-<p align="center>
-        <a href="https://github.com/rafaelgeronimo" target="_blank"><img alt="rafaelgeronimo" src="https://badges.pufler.dev/visits/rafaelgeronimo/rafaelgeronimo?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>          
-</p>
+[![visits badge][visits-shield]][visits-url]
+[![repos badge][repos-shield]][repos-url]
 
 <!--
 <hr>
@@ -78,5 +78,32 @@ Now Playing:<br>
 [resume-shield]: https://img.shields.io/badge/my-Resume.io-9cf?style=for-the-badge
 [resume-url]: https://resume.io/r/2IaNIsucz
 
-[github-shield]: https://img.shields.io/github/followers/rafaelgeronimo?label=follow&style=for-the-badge&logo=Github
-[github-url]: https://github.com/rafaelgeronimo
+[github-follow-shield]: https://img.shields.io/github/followers/rafaelgeronimo?label=follow&style=for-the-badge&logo=Github
+[github-follow-url]: https://github.com/rafaelgeronimo
+
+[javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[markdown-shield]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[redux-shield]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[mysql-shield]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[mongodb-shield]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[jest-shield]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
+[nginx-shield]: https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[vercel-shield]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
+[vscode-shield]: https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[trello-shield]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
+[notion-shield]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
+
+
+
+[visits-shield]: https://badges.pufler.dev/visits/rafaelgeronimo/rafaelgeronimo?logo=GitHub&label=Visits&color=blue&logoColor=white&style=for-the-badge
+[visits-url]: https://github.com/rafaelgeronimo
+
+[repos-shield]: https://badges.pufler.dev/repos/rafaelgeronimo?logo=GitHub&label=Public-Repos&color=orange&logoColor=white&style=for-the-badge
+[repos-url]: https://badges.pufler.dev/repos/rafaelgeronimo
