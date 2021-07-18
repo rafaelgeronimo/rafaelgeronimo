@@ -10,7 +10,7 @@
 - I’m currently a Full Stack Web Development student at [Trybe](https://www.betrybe.com/)
 - Working at [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer.
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="pv209" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
 <hr>
 <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
