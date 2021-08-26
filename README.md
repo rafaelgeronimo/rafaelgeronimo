@@ -11,6 +11,8 @@
 - Working at [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer.
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
+
 #### Trybe Projects:
 |Project Name|Module|Pull Request|Grade|
 |---|---|---|---|
@@ -39,8 +41,6 @@
 |MongoDB Commerce|Backend|https://github.com/tryber/sd-010-a-mongodb-commerce/pull/20|100%|
 |MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|in development|
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
 <hr>
 <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
@@ -105,7 +105,7 @@ Now Playing:<br>
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/rafaelgeronimo
 
-[resume-shield]: https://img.shields.io/badge/my-Resume.io-9cf?style=for-the-badge
+[resume-shield]: https://img.shields.io/badge/my-Resume-9cf?style=for-the-badge
 [resume-url]: https://resume.io/r/2IaNIsucz
 
 [github-follow-shield]: https://img.shields.io/github/followers/rafaelgeronimo?label=follow&style=for-the-badge&logo=Github
