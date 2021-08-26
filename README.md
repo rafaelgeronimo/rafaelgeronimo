@@ -10,6 +10,36 @@
 - I’m currently a Full Stack Web Development student at [Trybe](https://www.betrybe.com/)
 - Working at [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer.
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
+
+#### Trybe Projects:
+|Project Name|Module|Pull Request|Grade|
+|---|---|---|---|
+|Lessons Learned|Fundamentals|https://github.com/tryber/sd-09-project-lessons-learned/pull/18|100%|
+|Playground Functions|Fundamentals|https://github.com/tryber/sd-09-project-playground-functions/pull/9|100%|
+|Pixels Art|Fundamentals|https://github.com/tryber/sd-09-project-pixels-art/pull/4|100%|
+|ToDo List|Fundamentals|https://github.com/tryber/sd-09-project-todo-list/pull/50|100%|
+|Facebook Signup|Fundamentals|https://github.com/tryber/sd-09-project-facebook-signup/pull/31|100%|
+|JS Unit Tests|Fundamentals|https://github.com/tryber/sd-09-project-js-unit-tests/pull/76|89%|
+|Zoo Functions|Fundamentals|https://github.com/tryber/sd-09-project-zoo-functions/pull/38|85%|
+|Shopping Cart|Fundamentals|https://github.com/tryber/sd-09-project-shopping-cart/pull/6|100%|
+|Jest|Fundamentals|https://github.com/tryber/sd-09-project-jest/pull/56|100%|
+|Movie Cards Library|Frontend|https://github.com/tryber/sd-09-project-movie-cards-library/pull/8|87%|
+|Movie Cards Library Stateful|Frontend|https://github.com/tryber/sd-09-project-movie-cards-library-stateful/pull/26|95%|
+|Movie Cards Library CRUD|Frontend|https://github.com/tryber/sd-09-project-movie-card-library-crud/pull/2|100%|
+|Frontend Online Store|Frontend|https://github.com/tryber/sd-09-project-frontend-online-store/pull/465|100%|
+|React Testing Library|Frontend|https://github.com/tryber/sd-09-project-react-testing-library/pull/44|100%|
+|Trybe Wallet|Frontend|https://github.com/tryber/sd-09-project-trybewallet/pull/55|100%|
+|Trivia React Redux|Frontend|https://github.com/tryber/sd-010-a-project-trivia-react-redux/pull/620|94%|
+|Star Wars Planets Search|Frontend|https://github.com/tryber/sd-010-a-project-starwars-planets-search/pull/22|80%|
+|Recipes App|Frontend|https://github.com/tryber/sd-010-a-project-recipes-app/pull/30|95%|
+|MySQL All For One|Backend|https://github.com/tryber/sd-010-a-mysql-all-for-one/pull/3|100%|
+|Vocabulary Booster|Backend|https://github.com/tryber/sd-010-a-mysql-vocabulary-booster/pull/3|89%|
+|MySQL One For All|Backend|https://github.com/tryber/sd-010-a-mysql-one-for-all/pull/85|81%|
+|MongoDB Data Flights|Backend|https://github.com/tryber/sd-010-a-mongodb-dataflights/pull/2|100%|
+|MongoDB Commerce|Backend|https://github.com/tryber/sd-010-a-mongodb-commerce/pull/20|100%|
+|MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|in development|
+
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
 <hr>
 <p align="center">
