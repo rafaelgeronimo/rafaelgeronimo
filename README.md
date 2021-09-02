@@ -39,7 +39,7 @@
 |MySQL One For All|Backend|https://github.com/tryber/sd-010-a-mysql-one-for-all/pull/85|81%|
 |MongoDB Data Flights|Backend|https://github.com/tryber/sd-010-a-mongodb-dataflights/pull/2|100%|
 |MongoDB Commerce|Backend|https://github.com/tryber/sd-010-a-mongodb-commerce/pull/20|100%|
-|MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|in development|
+|MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|85%|
 
 <hr>
 <p align="center">
