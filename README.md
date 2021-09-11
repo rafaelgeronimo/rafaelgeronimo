@@ -40,6 +40,7 @@
 |MongoDB Data Flights|Backend|https://github.com/tryber/sd-010-a-mongodb-dataflights/pull/2|100%|
 |MongoDB Commerce|Backend|https://github.com/tryber/sd-010-a-mongodb-commerce/pull/20|100%|
 |MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|85%|
+|NodeJS - Talker Manager|Backend|https://github.com/tryber/sd-010-a-project-talker-manager/pull/32|86%|
 
 <hr>
 <p align="center">
