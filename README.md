@@ -17,7 +17,7 @@
 |Project Name|Module|Pull Request|Technologies|
 |---|---|---|---|
 |Lessons Learned|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-lessons-learned|HTML & CSS|
-|Playground Functions|Fundamentals|https://github.com/tryber/sd-09-project-playground-functions/pull/9|JavaScript|
+|Playground Functions|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-playground-functions|JavaScript|
 |Pixels Art|Fundamentals|https://github.com/tryber/sd-09-project-pixels-art/pull/4|HTML, CSS & JS|
 |ToDo List|Fundamentals|https://github.com/tryber/sd-09-project-todo-list/pull/50|HTML, CSS & JS|
 |Facebook Signup|Fundamentals|https://github.com/tryber/sd-09-project-facebook-signup/pull/31|HTML, CSS & JS|
