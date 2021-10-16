@@ -16,7 +16,7 @@
 #### Trybe Projects:
 |Project Name|Module|Pull Request|Technologies|
 |---|---|---|---|
-|Lessons Learned|Fundamentals|https://github.com/tryber/sd-09-project-lessons-learned/pull/18|HTML & CSS|
+|Lessons Learned|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-lessons-learned|HTML & CSS|
 |Playground Functions|Fundamentals|https://github.com/tryber/sd-09-project-playground-functions/pull/9|JavaScript|
 |Pixels Art|Fundamentals|https://github.com/tryber/sd-09-project-pixels-art/pull/4|HTML, CSS & JS|
 |ToDo List|Fundamentals|https://github.com/tryber/sd-09-project-todo-list/pull/50|HTML, CSS & JS|
