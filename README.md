@@ -14,7 +14,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
 -->
 #### Trybe Projects:
-|Project Name|Module|Pull Request|Technologies|
+|Project Name|Module|Repository|Technologies|
 |---|---|---|---|
 |Lessons Learned|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-lessons-learned|HTML & CSS|
 |Playground Functions|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-playground-functions|JavaScript|
