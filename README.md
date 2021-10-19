@@ -107,8 +107,8 @@ Now Playing:<br>
 -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[portfolio-shield]: https://img.shields.io/badge/Website-geronimo.dev-black?style=for-the-badge
-[portfolio-url]: https://geronimo.dev
+[portfolio-shield]: https://img.shields.io/badge/rafael-.geronimo.dev-black?style=for-the-badge
+[portfolio-url]: https://rafael.geronimo.dev
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/rafaelgeronimo
