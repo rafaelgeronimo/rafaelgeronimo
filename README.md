@@ -17,7 +17,7 @@
 |Project Name|Module|Repository|Technologies|
 |---|---|---|---|
 |Lessons Learned|Fundamentals|[rafaelgeronimo/trybe-project-lessons-learned](https://github.com/rafaelgeronimo/trybe-project-lessons-learned)|HTML & CSS|
-|Playground Functions|Fundamentals|https://github.com/rafaelgeronimo/trybe-project-playground-functions|JavaScript|
+|Playground Functions|Fundamentals|[rafaelgeronimo/trybe-projects-playground-functions](https://github.com/rafaelgeronimo/trybe-project-playground-functions)|JavaScript|
 |Pixels Art|Fundamentals|https://github.com/tryber/sd-09-project-pixels-art/pull/4|HTML, CSS & JS|
 |ToDo List|Fundamentals|https://github.com/tryber/sd-09-project-todo-list/pull/50|HTML, CSS & JS|
 |Facebook Signup|Fundamentals|https://github.com/tryber/sd-09-project-facebook-signup/pull/31|HTML, CSS & JS|
@@ -78,6 +78,7 @@
 
 ![Nginx][nginx-shield]
 ![Vercel][vercel-shield]
+![Heroku][heroku-shield]
 
 ![GitHub][github-shield]
 ![Markdown][markdown-shield]
@@ -138,7 +139,7 @@ Now Playing:<br>
 [figma-shield]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 [trello-shield]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
 [notion-shield]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-
+[heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
 
 
 [visits-shield]: https://badges.pufler.dev/visits/rafaelgeronimo/rafaelgeronimo?logo=GitHub&label=Visits&color=blue&logoColor=white&style=for-the-badge
