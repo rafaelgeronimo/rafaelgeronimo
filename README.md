@@ -18,8 +18,8 @@
 |---|---|---|---|
 |Lessons Learned|Fundamentals|[rafaelgeronimo/trybe-project-lessons-learned](https://github.com/rafaelgeronimo/trybe-project-lessons-learned)|HTML & CSS|
 |Playground Functions|Fundamentals|[rafaelgeronimo/trybe-projects-playground-functions](https://github.com/rafaelgeronimo/trybe-project-playground-functions)|JavaScript|
-|Pixels Art|Fundamentals|https://github.com/tryber/sd-09-project-pixels-art/pull/4|HTML, CSS & JS|
-|ToDo List|Fundamentals|https://github.com/tryber/sd-09-project-todo-list/pull/50|HTML, CSS & JS|
+|Pixels Art|Fundamentals|[rafaelgeronimo/trybe-project-pixels-art](https://github.com/rafaelgeronimo/trybe-project-pixels-art)|HTML, CSS & JS|
+|ToDo List|Fundamentals|[rafaelgeronimo/trybe-project-todo-list](https://github.com/rafaelgeronimo/trybe-project-todo-list)|HTML, CSS & JS|
 |Facebook Signup|Fundamentals|https://github.com/tryber/sd-09-project-facebook-signup/pull/31|HTML, CSS & JS|
 |JS Unit Tests|Fundamentals|https://github.com/tryber/sd-09-project-js-unit-tests/pull/76|JavaScript & Unit Tests|
 |Zoo Functions|Fundamentals|https://github.com/tryber/sd-09-project-zoo-functions/pull/38|JavaScript & HOF|
