@@ -45,6 +45,7 @@
 |NodeJS - Cookmaster|Backend|https://github.com/tryber/sd-010-a-cookmaster/pull/25|NodeJS|
 |Stranger Things Frontend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-frontend/pull/31|Heroku|
 |Stranger Things Backend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-backend/pull/26|Heroku|
+|Blogs API|Backend|[rafaelgeronimo/trybe-project-blogs-api](https://github.com/rafaelgeronimo/trybe-project-blogs-api)|NodeJS, SOLID e ORM|
 
 <hr>
 <p align="center">
