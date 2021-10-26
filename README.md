@@ -42,7 +42,7 @@
 |MongoDB Aggregations|Backend|https://github.com/tryber/sd-010-a-mongodb-aggregations/pull/21|MongoDB|
 |NodeJS - Talker Manager|Backend|https://github.com/tryber/sd-010-a-project-talker-manager/pull/32|NodeJS|
 |NodeJS - Store Manager|Backend|https://github.com/tryber/sd-010-a-store-manager/pull/81|NodeJS|
-|NodeJS - Cookmaster|Backend|https://github.com/tryber/sd-010-a-cookmaster/pull/25|NodeJS|
+|NodeJS - Cookmaster|Backend|[rafaelgeronimo/trybe-project-cookmaster](https://github.com/rafaelgeronimo/trybe-project-cookmaster)|NodeJS|
 |Stranger Things Frontend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-frontend/pull/31|Heroku|
 |Stranger Things Backend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-backend/pull/26|Heroku|
 |Blogs API|Backend|[rafaelgeronimo/trybe-project-blogs-api](https://github.com/rafaelgeronimo/trybe-project-blogs-api)|NodeJS, SOLID e ORM|
