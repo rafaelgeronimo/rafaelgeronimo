@@ -20,7 +20,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 
 <hr>
 <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
         <!--<br /><br />
         <!--
         <a href="https://wakatime.com/@rafaelgeronimo">
@@ -29,7 +29,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
         -->
         <!--
 </p>
-<p align="center">
+<p align="right">
         -->
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" /><br />
 </p>
