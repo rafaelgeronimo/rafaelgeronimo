@@ -8,7 +8,7 @@
 
 - My name is **Rafael Gerônimo**
 - I’m currently a Full Stack Web Development student at [Trybe](https://www.betrybe.com/)
-- Working at [Vega I.T.](https://vegait.com/) as I.T. Helpdesk Analyst, but i'm open to work as a web developer.
+- I'm open to work as a web developer.
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p>
