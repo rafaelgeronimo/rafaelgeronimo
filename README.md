@@ -17,25 +17,13 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 > ➡ **[https://github.com/rafaelgeronimo/trybe-projects](https://github.com/rafaelgeronimo/trybe-projects)** ⬅
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; height: 25vh">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord"
-    style="margin: 10px"
-  />
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true"
-    style="margin: 10px"
-  />
-  <br />
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; width: 100vw;height: 25vh; margin: 10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord" style="margin: 10px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true" style="margin: 10px" />
 </div>
-
 <br/>
-<hr>
-<hr>
 <a href="https://www.betrybe.com/" target="_blank">
-        <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
+  <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
 </a>
 <hr>
 
