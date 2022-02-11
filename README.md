@@ -17,20 +17,30 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 > ➡ **[https://github.com/rafaelgeronimo/trybe-projects](https://github.com/rafaelgeronimo/trybe-projects)** ⬅
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord" /><br />
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; width: 100vw;">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord"
+    style="margin: 10px"
+  />
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true"
+    style="margin: 10px"
+  />
+  <br />
 </div>
 
 <hr>
 
 ### Technologies and Tools that I have knowledge of:
 
-![React][react-shield]
-![Javascript][javascript-shield]
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![SASS][sass-shield]
+
+![Javascript][javascript-shield]
+![React][react-shield]
 ![Redux][redux-shield]
 ![NextJS][nextjs-shield]
 
