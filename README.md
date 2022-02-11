@@ -31,13 +31,13 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
   <br />
 </div>
 
-<hr>
 <br/>
-<hr/>
+<hr>
+<hr>
 <a href="https://www.betrybe.com/" target="_blank">
         <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
 </a>
-<hr/>
+<hr>
 
 ![HTML5][html-shield]
 ![CSS3][css-shield]
