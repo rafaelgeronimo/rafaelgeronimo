@@ -34,35 +34,27 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 <hr>
 <br/>
 
-### Technologies and Tools that I have knowledge of:
-
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![SASS][sass-shield]
-
 ![Javascript][javascript-shield]
 ![React][react-shield]
 ![Redux][redux-shield]
 ![NextJS][nextjs-shield]
-
 ![Jest][jest-shield]
 ![MySQL][mysql-shield]
 ![MongoDB][mongodb-shield]
 ![NodeJS][nodejs-shield]
 ![Express][express-shield]
-
 ![Nginx][nginx-shield]
 ![Vercel][vercel-shield]
 ![Heroku][heroku-shield]
-
 ![Git][git-shield]
 ![GitHub][github-shield]
 ![Markdown][markdown-shield]
-
 ![figma][figma-shield]
 ![trello][trello-shield]
 ![notion][notion-shield]
-
 ![Visual Studio Code][vscode-shield]
 ![Windows][windows-shield]
 ![Linux][linux-shield]
