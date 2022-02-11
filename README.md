@@ -34,6 +34,10 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 <hr>
 <br/>
 
+<a href="https://www.betrybe.com/" target="_blank">
+        <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
+</a>
+
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![SASS][sass-shield]
@@ -58,10 +62,6 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 ![Visual Studio Code][vscode-shield]
 ![Windows][windows-shield]
 ![Linux][linux-shield]
-
-<a href="https://www.betrybe.com/" target="_blank">
-        <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
-</a>
 
 [![visits badge][visits-shield]][visits-url]
 [![repos badge][repos-shield]][repos-url]
