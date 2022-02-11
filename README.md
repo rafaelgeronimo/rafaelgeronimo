@@ -18,17 +18,10 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center">
-<!-- <p style="margin: auto"> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
-  
-  <!-- <a href="https://wakatime.com/@rafaelgeronimo">
-    <img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelgeronimo" />
-  </a> -->
-<!-- </p>
-<p align="right"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" /><br />
-<!-- </p> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord" /><br />
 </div>
+
 <hr>
 
 ### Technologies and Tools that I have knowledge of:
@@ -69,15 +62,6 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 
 [![visits badge][visits-shield]][visits-url]
 [![repos badge][repos-shield]][repos-url]
-
-<!-- 
-<hr>
-Now Playing:<br>
-<p align="center">
-    <a href="https://open.spotify.com/user/rafaelgeronimo_" target="_blank" title="Click to visit my Spotify profile">
-        <img align="center" src="https://github-play.vercel.app/api/spotify" />
-    <a>
-</p> -->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
