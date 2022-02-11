@@ -32,6 +32,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 </div>
 
 <hr>
+<br/>
 
 ### Technologies and Tools that I have knowledge of:
 
