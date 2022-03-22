@@ -18,8 +18,8 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 
 <div align="center">
   <a href="https://github.com/rafaelgeronimo">
-  <img width="550vw" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&layout=compact&langs_count=7&theme=nord"/>
+  <img width="480vw" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img width="350vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 <a href="https://www.betrybe.com/" target="_blank">
