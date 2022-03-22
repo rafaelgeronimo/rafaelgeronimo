@@ -6,8 +6,8 @@
 ### Hi there! Welcome to my GitHub 👋
 
 - My name is **Rafael Gerônimo**
-- I’m currently a Full Stack Web Development student at [Trybe](https://www.betrybe.com/)
-- I'm open to work as a full stack web developer.
+- Graduated in Full Stack Web Development at [Trybe](https://www.betrybe.com/)
+- I’m currently working as a Developer at [Nextt](https://www.nextt.com.br/)
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p> -->
@@ -16,17 +16,16 @@
 See all the projects I developed during my studies at [Trybe](https://www.betrybe.com):
 > ➡ **[https://github.com/rafaelgeronimo/trybe-projects](https://github.com/rafaelgeronimo/trybe-projects)** ⬅
 
-<hr>
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100vw;height: 25vh; margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&show_icons=true&layout=compact&theme=nord" style="margin: 10px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&theme=nord&show_icons=true" style="margin: 10px" />
+<div align="center">
+  <a href="https://github.com/rafaelgeronimo">
+  <img width="400vw" src="https://github-readme-stats.vercel.app/api?username=rafaelgeronimo&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img width="392vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&layout=compact&langs_count=7&theme=nord"/>
 </div>
-<br/>
+
 <a href="https://www.betrybe.com/" target="_blank">
   <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
-</a>
-<hr>
-
+</a>    
+    
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![SASS][sass-shield]
