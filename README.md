@@ -7,7 +7,7 @@
 
 - My name is **Rafael Gerônimo**
 - Graduated in Full Stack Web Development at [Trybe](https://www.betrybe.com/)
-- I’m currently working as a Developer at [Nextt](https://www.nextt.com.br/)
+- I’m currently working as a Developer at [Wolven](https://www.wolven.com.br/)
 - Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p> -->
