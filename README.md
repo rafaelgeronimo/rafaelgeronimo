@@ -3,13 +3,22 @@
 [![Resume.io][resume-shield]][resume-url]
 [![Github Followers][github-follow-shield]][github-follow-url]
 
-### Hi there! Welcome to my GitHub 👋
-
-- My name is **Rafael Gerônimo**
-- Graduated in Full Stack Web Development at [Trybe](https://www.betrybe.com/)
-- I’m currently working as a Developer at [Wolven](https://www.wolven.com.br/)
-- Contact me on [LinkedIn](https://www.linkedin.com/in/rafaelgeronimo/)
-
+<h3> Hi there! Welcome to my GitHub 👋</h3>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>My name is <strong>Rafael Gerônimo</strong></li>
+      <li>Graduated in Full Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a></li>
+      <li>I’m currently working as a Developer at <a href="https://www.wolven.com.br/">Wolven</a></li>
+      <li>Contact me on <a href="https://www.linkedin.com/in/rafaelgeronimo/">LinkedIn</a></li>
+    </ul>
+  </div>
+  <div>
+    <a href="https://app.daily.dev/rafaelgeronimo">
+      <img src="https://api.daily.dev/devcards/beea681cbb67405ba7f11c1dbf57b22c.png?r=63x" width="200" alt="Rafael Gerônimo's Dev Card"/>
+    </a>
+  </div>
+</div>
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p> -->
 
 ### Trybe Projects:
