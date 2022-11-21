@@ -13,11 +13,11 @@
       <li>Contact me on <a href="https://www.linkedin.com/in/rafaelgeronimo/">LinkedIn</a></li>
     </ul>
   </div>
-  <div>
+<!--   <div>
     <a href="https://app.daily.dev/rafaelgeronimo">
       <img src="https://api.daily.dev/devcards/beea681cbb67405ba7f11c1dbf57b22c.png?r=63x" width="200" alt="Rafael Gerônimo's Dev Card"/>
     </a>
-  </div>
+  </div> -->
 </div>
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelgeronimo&" alt="rafaelgeronimo" /></p> -->
 
