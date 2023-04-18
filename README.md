@@ -107,8 +107,4 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 [heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
 
 
-[visits-shield]: https://badges.pufler.dev/visits/rafaelgeronimo/rafaelgeronimo?logo=GitHub&label=Visits&color=blue&logoColor=white&style=for-the-badge
-[visits-url]: https://github.com/rafaelgeronimo
 
-[repos-shield]: https://badges.pufler.dev/repos/rafaelgeronimo?logo=GitHub&label=Public-Repos&color=orange&logoColor=white&style=for-the-badge
-[repos-url]: https://badges.pufler.dev/repos/rafaelgeronimo
