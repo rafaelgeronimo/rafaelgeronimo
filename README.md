@@ -11,6 +11,7 @@
       <li>Graduated in Full Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a></li>
       <li>I’m currently working as a Developer at <a href="https://www.wolven.com.br/">Wolven</a></li>
       <li>Contact me on <a href="https://www.linkedin.com/in/rafaelgeronimo/">LinkedIn</a></li>
+      <li>✉️ <a href="mailto:rafael@geronimo.dev">rafael@geronimo.dev</a></li>
     </ul>
   </div>
 <!--   <div>
@@ -107,4 +108,8 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 [heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
 
 
-
+[visits-shield]: https://badges.pufler.dev/visits/rafaelgeronimo/rafaelgeronimo?logo=GitHub&label=Visits&color=blue&logoColor=white&style=for-the-badge
+[visits-url]: https://github.com/rafaelgeronimo
+  
+[repos-shield]: https://badges.pufler.dev/repos/rafaelgeronimo?logo=GitHub&label=Public-Repos&color=orange&logoColor=white&style=for-the-badge
+[repos-url]: https://badges.pufler.dev/repos/rafaelgeronimo
