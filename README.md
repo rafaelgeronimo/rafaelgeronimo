@@ -32,14 +32,17 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
   <img width="320vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgeronimo&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
+<!--
 <a href="https://www.betrybe.com/" target="_blank">
   <img src="https://github.com/rafaelgeronimo/rafaelgeronimo/blob/master/trybe_capa.png">
-</a>    
+</a>
+-->
     
 ![HTML5][html-shield]
 ![CSS3][css-shield]
 ![SASS][sass-shield]
 ![Javascript][javascript-shield]
+![Angular][angular-shield]
 ![React][react-shield]
 ![Redux][redux-shield]
 ![NextJS][nextjs-shield]
@@ -47,6 +50,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 ![MySQL][mysql-shield]
 ![MongoDB][mongodb-shield]
 ![NodeJS][nodejs-shield]
+![SAPCommerce][sapcommerce-shield]
 ![Express][express-shield]
 ![Nginx][nginx-shield]
 ![Vercel][vercel-shield]
@@ -83,6 +87,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 [css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[angular-shield]: https://img.shields.io/badge/angular-%23F1F1F1.svg?style=for-the-badge&logo=angular&logoColor=%23dd0031
 [markdown-shield]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [redux-shield]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
 [nextjs-shield]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
@@ -90,6 +95,7 @@ See all the projects I developed during my studies at [Trybe](https://www.betryb
 [mysql-shield]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [mongodb-shield]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [nodejs-shield]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[sapcommerce-shield]: https://img.shields.io/badge/commerce-%23e3f3ff.svg?style=for-the-badge&logo=sap&logoColor=%230FAAFF
 [express-shield]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [jest-shield]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
 [nginx-shield]: https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
